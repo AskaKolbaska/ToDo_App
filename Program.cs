@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ToDo_App;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+
+    }
+
+
+}
